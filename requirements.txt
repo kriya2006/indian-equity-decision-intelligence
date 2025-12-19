@@ -49,3 +49,4 @@ watchdog==6.0.0
 yfinance
 feedparser
 textblob
+
